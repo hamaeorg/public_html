@@ -18,23 +18,20 @@ h4 {
     margin-right: auto;
     margin-bottom: 30px;
     padding: 15px;
-    background-color: #303030;
-    width: 72%;
+    background: linear-gradient(black,#303030);
+    width: 600px;
+    border: 2px solid #303030;
+    font-family: arial;
 
 }
-
 .taimer {
     font-size: 6em;
-    display:  inline-block;
-    background: linear-gradient(#505050, black);
+    background: linear-gradient(#303030, black);
     padding: 7px;
+    margin: 2px;
+    border: 2px solid #303030;
 }
-#ajayhikud {
+div.ajayhikud {
     font-size: 1em;
     display:  inline-block;
-    margin-left: 30px;
-    margin-right: 30px;
-
-
-
 }
